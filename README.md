@@ -58,4 +58,4 @@ to support data-driven decision-making.
 ## Author
 Sree Venkata SVT
 BBA Graduate | Aspiring Business Analyst |
-LinkedIn: [Varun Talluri](https://www.linkedin.com/in/varuntalluri19)
+LinkedIn: [Sree Venkata SVT](https://www.linkedin.com/in/sree-venkata-svt)
